@@ -4,6 +4,7 @@ from Data import *
 # A program to translate into all languages 
 # Education use  
 # Thank you Google Translate
+# developed for learning
 
 def parse(count,unparse,lang):
     ind = unparse.index('"'+lang)
