@@ -5,7 +5,7 @@ from Data import *
 # Education use  
 # Thank you Google Translate
 # developed for learning
-
+# changed
 def parse(count,unparse,lang):
     ind = unparse.index('"'+lang)
     need = unparse[ind:]
